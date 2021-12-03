@@ -1,1 +1,1 @@
-# alfinlutfi277.github.io
+<?php include_once("resources/views/adminshow.blade.php") ?>
